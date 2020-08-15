@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Shelves
+GenericName=Collection Manager
+Comment=Manage your videogame collection
+Categories=Utility;Game;
+Exec=com.github.rubenmvc.shelves
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Shelves;
