@@ -1,2 +1,2 @@
 # shelves
-A straightforward way to manage your collect
+A straightforward way to manage your videogame collection
